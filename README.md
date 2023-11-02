@@ -1,0 +1,3 @@
+- 🏫 unsw
+- 👩🏻‍💻 1st year IT Postgraduate Student
+- ▶️ Learning: Python, PostgreSQL
